@@ -1,2 +1,4 @@
 # Teste-Logica-Programacao
- Exercícios lógica de programação, para testar o meu conhecimento em JAVA.
+
+
+Este repositório contém exercícios de lógica de programação desenvolvidos em Java, com o objetivo de praticar e testar meus conhecimentos na linguagem. 🚀
